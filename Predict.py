@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Feb 29 16:48:01 2024
-
-@author: CMP
 """
 
 #======================== IMPORT PACKAGES ===========================
